@@ -1,4 +1,5 @@
-# custom-windows10
+# Custom Windows 10
+
 My custom build of Windows 10
 
 ### Prerequisites
@@ -12,4 +13,4 @@ My custom build of Windows 10
 
 ### Installation
 
-Begin by cloning this repository into your Downloads folder. I recommend that you copy the files from the repository and paste it directly into your Downloads folder. Open up PowerShell running as admin in that directory and type in `.\script.ps1`.
+Begin by cloning this repository into your Downloads folder. I recommend that you copy the files from the repository and paste it directly into your Downloads folder. Open up PowerShell running as admin in that directory and type in `.\script.ps1`. Make sure to click Yes to all the prompts.
