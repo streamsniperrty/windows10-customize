@@ -4,7 +4,7 @@ My custom build of Windows 10
 
 ### Prerequisites
 
-* Install the font ![Iosevka](https://github.com/be5invis/Iosevka/releases) from here.
+* Install the font ![**Iosevka**](https://github.com/be5invis/Iosevka/releases) from here.
 * Change the taskbar location from the bottom to the top.
 * Change the accent colors to your liking.
 * If you want, enable dark mode.
