@@ -8,7 +8,7 @@ My custom build of Windows 10
 * Change the taskbar location from the bottom to the top.
 * Change the accent colors to your liking.
 * If you want, enable dark mode.
-* If you want, you can install the **Choclatey Package Manager**.
+* If you want, you can install the ![**Choclatey Package Manager**](https://chocolatey.org/install) from here.
 * To execute the script, change the Group Policy to Unrestricted. Type in the following command (running PowerShell Admin), `Set-ExecutionPolicy Unrestricted`. This will allow you to execute any PowerShell script.
 
 ### Installation
