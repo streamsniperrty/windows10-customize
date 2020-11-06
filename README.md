@@ -20,3 +20,4 @@ Begin by cloning this repository into your Downloads folder. I recommend that yo
 The final product should look something like this:
 
 ![Screenshot 1](https://github.com/streamsniperrty/custom-windows10/blob/main/photos/windows1.png)
+![Screenshot 2](https://github.com/streamsniperrty/custom-windows10/blob/main/photos/windows2.png)
