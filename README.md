@@ -14,3 +14,9 @@ My custom build of Windows 10
 ### Installation
 
 Begin by cloning this repository into your Downloads folder. I recommend that you copy the files from the repository and paste it directly into your Downloads folder. Open up PowerShell running as admin in that directory and type in `.\script.ps1`. Make sure to click Yes to all the prompts.
+
+### Final Product
+
+The final product should look something like this:
+
+![Screenshot 1](https://github.com/streamsniperrty/custom-windows10/blob/main/photos/windows1.png)
