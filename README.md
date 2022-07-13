@@ -1,4 +1,4 @@
-# Custom Windows 10
+# Windows 10 Basic Configuration
 
 My custom build of Windows 10
 
