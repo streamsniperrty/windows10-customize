@@ -22,3 +22,7 @@ The final product should look something like this:
 
 ![Screenshot 1](https://github.com/streamsniperrty/custom-windows10/blob/main/photos/windows1.png)
 ![Screenshot 2](https://github.com/streamsniperrty/custom-windows10/blob/main/photos/windows2.png)
+
+### Bonus
+
+I've also included a way to activate Windows for "free". The activation file is located in the `activate` directory. Hey, it's not my fault that you have to **PAY** to use an operating system. Anyways, I borrowed this script from a random forum, all credit goes to the guy who runs the KMS server. Just run the batch file in Command Prompt, preferrably as administrator.
